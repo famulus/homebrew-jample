@@ -1,7 +1,7 @@
 class Jample < Formula
   desc "Jample: A tool for music sampling and integration with Ableton Live"
   homepage "https://github.com/famulus/jample"
-  url "https://github.com/famulus/jample/archive/v1.0.tar.gz"
+  url "https://github.com/famulus/jample/releases/download/v0.1/jample-v1.0.tar.gz"
   version "1.0"
   sha256 "<SHA256 checksum>"
 
